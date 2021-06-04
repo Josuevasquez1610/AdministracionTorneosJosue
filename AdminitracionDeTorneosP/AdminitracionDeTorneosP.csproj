@@ -233,6 +233,12 @@
     <Compile Include="View\CRUD_GOL.Designer.cs">
       <DependentUpon>CRUD_GOL.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\ReporteEquipo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\ReporteEquipo.Designer.cs">
+      <DependentUpon>ReporteEquipo.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\ReporteEstadisticasDelEquipo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -389,6 +395,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\CRUD_GOL.resx">
       <DependentUpon>CRUD_GOL.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\ReporteEquipo.resx">
+      <DependentUpon>ReporteEquipo.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\ReporteEstadisticasDelEquipo.resx">
       <DependentUpon>ReporteEstadisticasDelEquipo.cs</DependentUpon>

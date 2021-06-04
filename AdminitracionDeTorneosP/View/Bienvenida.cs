@@ -100,5 +100,11 @@ namespace AdminitracionDeTorneosP.View
 
             abrirForm.ShowDialog();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ReporteEquipo re = new ReporteEquipo();
+            re.Show();
+        }
     }
 }

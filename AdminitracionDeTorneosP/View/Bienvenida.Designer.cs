@@ -41,6 +41,7 @@ namespace AdminitracionDeTorneosP.View
             this.button16 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
+            this.button3 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button25
@@ -53,7 +54,7 @@ namespace AdminitracionDeTorneosP.View
             this.button25.ForeColor = System.Drawing.Color.White;
             this.button25.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button25.Location = new System.Drawing.Point(26, 205);
-            this.button25.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button25.Margin = new System.Windows.Forms.Padding(2);
             this.button25.Name = "button25";
             this.button25.Size = new System.Drawing.Size(162, 65);
             this.button25.TabIndex = 37;
@@ -71,7 +72,7 @@ namespace AdminitracionDeTorneosP.View
             this.button24.ForeColor = System.Drawing.Color.White;
             this.button24.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button24.Location = new System.Drawing.Point(226, 312);
-            this.button24.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button24.Margin = new System.Windows.Forms.Padding(2);
             this.button24.Name = "button24";
             this.button24.Size = new System.Drawing.Size(162, 65);
             this.button24.TabIndex = 36;
@@ -89,7 +90,7 @@ namespace AdminitracionDeTorneosP.View
             this.button23.ForeColor = System.Drawing.Color.White;
             this.button23.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button23.Location = new System.Drawing.Point(225, 80);
-            this.button23.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button23.Margin = new System.Windows.Forms.Padding(2);
             this.button23.Name = "button23";
             this.button23.Size = new System.Drawing.Size(162, 65);
             this.button23.TabIndex = 35;
@@ -107,7 +108,7 @@ namespace AdminitracionDeTorneosP.View
             this.button22.ForeColor = System.Drawing.Color.White;
             this.button22.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button22.Location = new System.Drawing.Point(427, 312);
-            this.button22.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button22.Margin = new System.Windows.Forms.Padding(2);
             this.button22.Name = "button22";
             this.button22.Size = new System.Drawing.Size(152, 65);
             this.button22.TabIndex = 34;
@@ -125,7 +126,7 @@ namespace AdminitracionDeTorneosP.View
             this.button21.ForeColor = System.Drawing.Color.White;
             this.button21.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button21.Location = new System.Drawing.Point(26, 80);
-            this.button21.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button21.Margin = new System.Windows.Forms.Padding(2);
             this.button21.Name = "button21";
             this.button21.Size = new System.Drawing.Size(162, 65);
             this.button21.TabIndex = 33;
@@ -143,7 +144,7 @@ namespace AdminitracionDeTorneosP.View
             this.button20.ForeColor = System.Drawing.Color.White;
             this.button20.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button20.Location = new System.Drawing.Point(26, 312);
-            this.button20.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button20.Margin = new System.Windows.Forms.Padding(2);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(162, 65);
             this.button20.TabIndex = 32;
@@ -161,7 +162,7 @@ namespace AdminitracionDeTorneosP.View
             this.button19.ForeColor = System.Drawing.Color.White;
             this.button19.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button19.Location = new System.Drawing.Point(603, 205);
-            this.button19.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button19.Margin = new System.Windows.Forms.Padding(2);
             this.button19.Name = "button19";
             this.button19.Size = new System.Drawing.Size(162, 67);
             this.button19.TabIndex = 31;
@@ -179,7 +180,7 @@ namespace AdminitracionDeTorneosP.View
             this.button18.ForeColor = System.Drawing.Color.White;
             this.button18.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button18.Location = new System.Drawing.Point(225, 205);
-            this.button18.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button18.Margin = new System.Windows.Forms.Padding(2);
             this.button18.Name = "button18";
             this.button18.Size = new System.Drawing.Size(162, 65);
             this.button18.TabIndex = 30;
@@ -197,7 +198,7 @@ namespace AdminitracionDeTorneosP.View
             this.button17.ForeColor = System.Drawing.Color.White;
             this.button17.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button17.Location = new System.Drawing.Point(600, 80);
-            this.button17.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button17.Margin = new System.Windows.Forms.Padding(2);
             this.button17.Name = "button17";
             this.button17.Size = new System.Drawing.Size(165, 65);
             this.button17.TabIndex = 29;
@@ -215,7 +216,7 @@ namespace AdminitracionDeTorneosP.View
             this.button16.ForeColor = System.Drawing.Color.White;
             this.button16.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button16.Location = new System.Drawing.Point(416, 205);
-            this.button16.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button16.Margin = new System.Windows.Forms.Padding(2);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(162, 65);
             this.button16.TabIndex = 28;
@@ -233,7 +234,7 @@ namespace AdminitracionDeTorneosP.View
             this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.button2.Location = new System.Drawing.Point(416, 80);
-            this.button2.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(162, 65);
             this.button2.TabIndex = 27;
@@ -259,12 +260,31 @@ namespace AdminitracionDeTorneosP.View
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(53)))), ((int)(((byte)(102)))));
+            this.button3.FlatAppearance.BorderSize = 0;
+            this.button3.FlatAppearance.MouseOverBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(45)))), ((int)(((byte)(45)))), ((int)(((byte)(48)))));
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.Color.White;
+            this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button3.Location = new System.Drawing.Point(26, 414);
+            this.button3.Margin = new System.Windows.Forms.Padding(2);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(162, 65);
+            this.button3.TabIndex = 39;
+            this.button3.Text = "Reporte Equipo";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
             // Bienvenida
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(202)))), ((int)(((byte)(240)))), ((int)(((byte)(248)))));
             this.ClientSize = new System.Drawing.Size(782, 490);
+            this.Controls.Add(this.button3);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.button25);
             this.Controls.Add(this.button24);
@@ -278,7 +298,7 @@ namespace AdminitracionDeTorneosP.View
             this.Controls.Add(this.button16);
             this.Controls.Add(this.button2);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "Bienvenida";
             this.Text = "Bienvenida";
             this.ResumeLayout(false);
@@ -298,5 +318,6 @@ namespace AdminitracionDeTorneosP.View
         private System.Windows.Forms.Button button16;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button button3;
     }
 }
