@@ -42,6 +42,8 @@ namespace AdminitracionDeTorneosP.View
             this.button2 = new System.Windows.Forms.Button();
             this.button1 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+
+
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
@@ -56,6 +58,8 @@ namespace AdminitracionDeTorneosP.View
             this.button25.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button25.ForeColor = System.Drawing.Color.White;
             this.button25.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button25.Location = new System.Drawing.Point(26, 205);
+
             this.button25.Location = new System.Drawing.Point(26, 128);
             this.button25.Margin = new System.Windows.Forms.Padding(2);
             this.button25.Name = "button25";
@@ -74,6 +78,8 @@ namespace AdminitracionDeTorneosP.View
             this.button24.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button24.ForeColor = System.Drawing.Color.White;
             this.button24.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+
+            this.button24.Location = new System.Drawing.Point(226, 312);
             this.button24.Location = new System.Drawing.Point(226, 228);
             this.button24.Margin = new System.Windows.Forms.Padding(2);
             this.button24.Name = "button24";
@@ -92,6 +98,7 @@ namespace AdminitracionDeTorneosP.View
             this.button23.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button23.ForeColor = System.Drawing.Color.White;
             this.button23.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button23.Location = new System.Drawing.Point(225, 80);
             this.button23.Location = new System.Drawing.Point(225, 23);
             this.button23.Margin = new System.Windows.Forms.Padding(2);
             this.button23.Name = "button23";
@@ -110,6 +117,7 @@ namespace AdminitracionDeTorneosP.View
             this.button22.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button22.ForeColor = System.Drawing.Color.White;
             this.button22.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button22.Location = new System.Drawing.Point(427, 312);
             this.button22.Location = new System.Drawing.Point(427, 228);
             this.button22.Margin = new System.Windows.Forms.Padding(2);
             this.button22.Name = "button22";
@@ -128,6 +136,7 @@ namespace AdminitracionDeTorneosP.View
             this.button21.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button21.ForeColor = System.Drawing.Color.White;
             this.button21.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button21.Location = new System.Drawing.Point(26, 80);
             this.button21.Location = new System.Drawing.Point(26, 23);
             this.button21.Margin = new System.Windows.Forms.Padding(2);
             this.button21.Name = "button21";
@@ -146,6 +155,7 @@ namespace AdminitracionDeTorneosP.View
             this.button20.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button20.ForeColor = System.Drawing.Color.White;
             this.button20.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button20.Location = new System.Drawing.Point(26, 312);
             this.button20.Location = new System.Drawing.Point(26, 228);
             this.button20.Margin = new System.Windows.Forms.Padding(2);
             this.button20.Name = "button20";
@@ -164,6 +174,7 @@ namespace AdminitracionDeTorneosP.View
             this.button19.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button19.ForeColor = System.Drawing.Color.White;
             this.button19.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button19.Location = new System.Drawing.Point(603, 205);
             this.button19.Location = new System.Drawing.Point(603, 128);
             this.button19.Margin = new System.Windows.Forms.Padding(2);
             this.button19.Name = "button19";
@@ -182,6 +193,7 @@ namespace AdminitracionDeTorneosP.View
             this.button18.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button18.ForeColor = System.Drawing.Color.White;
             this.button18.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button18.Location = new System.Drawing.Point(225, 205);
             this.button18.Location = new System.Drawing.Point(225, 128);
             this.button18.Margin = new System.Windows.Forms.Padding(2);
             this.button18.Name = "button18";
@@ -200,6 +212,7 @@ namespace AdminitracionDeTorneosP.View
             this.button17.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button17.ForeColor = System.Drawing.Color.White;
             this.button17.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button17.Location = new System.Drawing.Point(600, 80);
             this.button17.Location = new System.Drawing.Point(600, 23);
             this.button17.Margin = new System.Windows.Forms.Padding(2);
             this.button17.Name = "button17";
@@ -218,6 +231,7 @@ namespace AdminitracionDeTorneosP.View
             this.button16.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button16.ForeColor = System.Drawing.Color.White;
             this.button16.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button16.Location = new System.Drawing.Point(416, 205);
             this.button16.Location = new System.Drawing.Point(416, 128);
             this.button16.Margin = new System.Windows.Forms.Padding(2);
             this.button16.Name = "button16";
@@ -236,6 +250,7 @@ namespace AdminitracionDeTorneosP.View
             this.button2.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.White;
             this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button2.Location = new System.Drawing.Point(416, 80);
             this.button2.Location = new System.Drawing.Point(416, 23);
             this.button2.Margin = new System.Windows.Forms.Padding(2);
             this.button2.Name = "button2";
@@ -272,6 +287,14 @@ namespace AdminitracionDeTorneosP.View
             this.button3.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button3.ForeColor = System.Drawing.Color.White;
             this.button3.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button3.Location = new System.Drawing.Point(26, 414);
+            this.button3.Margin = new System.Windows.Forms.Padding(2);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(162, 65);
+            this.button3.TabIndex = 39;
+            this.button3.Text = "Reporte Equipo";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click);
             this.button3.Location = new System.Drawing.Point(603, 336);
             this.button3.Margin = new System.Windows.Forms.Padding(2);
             this.button3.Name = "button3";

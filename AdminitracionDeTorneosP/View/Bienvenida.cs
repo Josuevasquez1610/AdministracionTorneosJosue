@@ -101,6 +101,10 @@ namespace AdminitracionDeTorneosP.View
             abrirForm.ShowDialog();
         }
 
+        private void button3_Click(object sender, EventArgs e)
+        {
+            ReporteEquipo re = new ReporteEquipo();
+            re.Show();
         private void button6_Click(object sender, EventArgs e)
         {
             listadoArbitrosGit listadoArbitrosGit = new listadoArbitrosGit();
