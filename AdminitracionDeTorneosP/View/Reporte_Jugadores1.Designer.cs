@@ -30,8 +30,8 @@ namespace AdminitracionDeTorneosP.View
         private void InitializeComponent()
         {
             this.label5 = new System.Windows.Forms.Label();
-            this.ListReporteVisita = new System.Windows.Forms.DataGridView();
-            ((System.ComponentModel.ISupportInitialize)(this.ListReporteVisita)).BeginInit();
+            this.ListadoJugadores = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.ListadoJugadores)).BeginInit();
             this.SuspendLayout();
             // 
             // label5
@@ -45,20 +45,20 @@ namespace AdminitracionDeTorneosP.View
             this.label5.TabIndex = 36;
             this.label5.Text = "Reporte Jugadores";
             // 
-            // ListReporteVisita
+            // ListadoJugadores
             // 
-            this.ListReporteVisita.AllowUserToAddRows = false;
-            this.ListReporteVisita.AllowUserToDeleteRows = false;
-            this.ListReporteVisita.BackgroundColor = System.Drawing.Color.Azure;
-            this.ListReporteVisita.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.ListReporteVisita.GridColor = System.Drawing.Color.Azure;
-            this.ListReporteVisita.Location = new System.Drawing.Point(46, 172);
-            this.ListReporteVisita.Name = "ListReporteVisita";
-            this.ListReporteVisita.ReadOnly = true;
-            this.ListReporteVisita.RowHeadersVisible = false;
-            this.ListReporteVisita.RowHeadersWidth = 51;
-            this.ListReporteVisita.Size = new System.Drawing.Size(656, 210);
-            this.ListReporteVisita.TabIndex = 37;
+            this.ListadoJugadores.AllowUserToAddRows = false;
+            this.ListadoJugadores.AllowUserToDeleteRows = false;
+            this.ListadoJugadores.BackgroundColor = System.Drawing.Color.Azure;
+            this.ListadoJugadores.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.ListadoJugadores.GridColor = System.Drawing.Color.Azure;
+            this.ListadoJugadores.Location = new System.Drawing.Point(46, 172);
+            this.ListadoJugadores.Name = "ListadoJugadores";
+            this.ListadoJugadores.ReadOnly = true;
+            this.ListadoJugadores.RowHeadersVisible = false;
+            this.ListadoJugadores.RowHeadersWidth = 51;
+            this.ListadoJugadores.Size = new System.Drawing.Size(656, 210);
+            this.ListadoJugadores.TabIndex = 37;
             // 
             // Reporte_Jugadores1
             // 
@@ -66,12 +66,13 @@ namespace AdminitracionDeTorneosP.View
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(202)))), ((int)(((byte)(240)))), ((int)(((byte)(248)))));
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Controls.Add(this.ListReporteVisita);
+            this.Controls.Add(this.ListadoJugadores);
             this.Controls.Add(this.label5);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Name = "Reporte_Jugadores1";
             this.Text = "Reporte_Jugadores1";
-            ((System.ComponentModel.ISupportInitialize)(this.ListReporteVisita)).EndInit();
+            this.Load += new System.EventHandler(this.Reporte_Jugadores1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.ListadoJugadores)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -80,6 +81,6 @@ namespace AdminitracionDeTorneosP.View
         #endregion
 
         private System.Windows.Forms.Label label5;
-        private System.Windows.Forms.DataGridView ListReporteVisita;
+        private System.Windows.Forms.DataGridView ListadoJugadores;
     }
 }
