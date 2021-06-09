@@ -1135,7 +1135,11 @@ select Nombre
 from cancha
 GO
 
-
+CREATE PROCEDURE SP_GET_ARBITROS_GIT
+AS BEGIN
+	SELECT * FROM arbitro;
+END
+GO
 
 
 

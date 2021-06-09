@@ -215,6 +215,12 @@
     <Compile Include="View\JornadasPartido.Designer.cs">
       <DependentUpon>JornadasPartido.cs</DependentUpon>
     </Compile>
+    <Compile Include="View\listadoArbitrosGit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\listadoArbitrosGit.designer.cs">
+      <DependentUpon>listadoArbitrosGit.cs</DependentUpon>
+    </Compile>
     <Compile Include="View\MenuIncripcionEquipo.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -386,6 +392,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="View\JornadasPartido.resx">
       <DependentUpon>JornadasPartido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\listadoArbitrosGit.resx">
+      <DependentUpon>listadoArbitrosGit.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="View\MenuIncripcionEquipo.resx">
       <DependentUpon>MenuIncripcionEquipo.cs</DependentUpon>
