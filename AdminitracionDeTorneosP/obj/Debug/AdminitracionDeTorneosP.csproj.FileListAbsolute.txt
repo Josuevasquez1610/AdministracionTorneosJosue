@@ -271,3 +271,47 @@ C:\Users\Josue Vasquez\Desktop\AdminTorneos\AdminitracionDeTorneosP\Adminitracio
 C:\Users\Josue Vasquez\Desktop\AdminTorneos\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
 C:\Users\Josue Vasquez\Desktop\AdminTorneos\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
 C:\Users\Josue Vasquez\Desktop\AdminTorneos\AdminitracionDeTorneosP\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe.config
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.exe
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\bin\Debug\AdminitracionDeTorneosP.pdb
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csprojAssemblyReference.cache
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Form1.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.Properties.Resources.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Agregar_Cancha.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Bienvenida.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ComenzarPartido.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUDArbitro_Partido.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_AMONESTACION.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_CAMBIOS.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_ENTRENADOR.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_EQUIPO.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_JUGADORES.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_REGISTRO_AMONESTACION.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Torneo2.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.detallesPartido.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.disponibilidad_Cancha.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.GOLEADOR.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.JornadasPartido.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionEquipo.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.MenuIncripcionJugador.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.CRUD_GOL.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.ReporteEstadisticasDelEquipo.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.reporteJuegosAfectados.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.reportePlanillaArbitro.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Jugadores1.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_punteo_general.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Tabla_Visitante.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.Reporte_Utilidades.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.TARJETAS.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.tiempoUsoCanchas.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vistaHorario.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vista_usuarios.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vista_cliente.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.vISTA_ENCUENTROS_WIN.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PAGOS_TARGETAS.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_PORTERO_MENOS_VENCIDO.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.View.VISTA_REPORTE_LOCAL.resources
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.GenerateResource.cache
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.csproj.CoreCompileInputs.cache
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.exe
+C:\Users\Steve Mendez\Desktop\Repositorio Josue\AdministracionTorneosJosue\AdminitracionDeTorneosP\obj\Debug\AdminitracionDeTorneosP.pdb
